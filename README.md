@@ -1,4 +1,5 @@
 # Portfolio 2
+![skjermbildePortfolio](https://github.com/user-attachments/assets/eb238c5c-5bd5-4339-ab22-6575a1149fe0)
 
 
 
