@@ -49,5 +49,5 @@ npm run start
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-My Discord username: Hgarden
-My Email: [marius.h.hagen@gmail.com]
+- My Discord username: Hgarden
+- My Email: marius.h.hagen@gmail.com
