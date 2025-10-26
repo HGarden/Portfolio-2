@@ -1,13 +1,12 @@
 
 function Header() {
     return (
-<div className="navbar bg-base-100 shadow-sm">
-  <div className="navbar-start">
+<div className="header navbar">
+  <div className="navbar-start px-2">
+    <span className="text-xl font-semibold heading">Marius Hagen</span>
   </div>
-  <div className="navbar-center">
-    <a className="btn btn-ghost text-xl">Portfolio - Marius Hagen</a>
-  </div>
-  <div className="navbar-end">
+  <div className="navbar-end pr-2">
+    <div className="text-sm subheading opacity-80">Web · Music</div>
   </div>
 </div>
     )
