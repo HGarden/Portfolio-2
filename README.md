@@ -1,5 +1,6 @@
 # Portfolio 2
-![skjermbildePortfolio](https://github.com/user-attachments/assets/eb238c5c-5bd5-4339-ab22-6575a1149fe0)
+<img width="5760" height="3240" alt="Screen Shot 2025-10-26 at 13 16 39" src="https://github.com/user-attachments/assets/ba770ffd-a895-4706-9772-59eeda4e1690" />
+
 
 
 
